@@ -6,7 +6,7 @@
 
 **HR Graduate | Aspiring Data Analyst | People Analytics Enthusiast**  
 **Johannesburg, Gauteng, South Africa**  
-[LinkedIn](https://www.linkedin.com/in/tebogo-mokebe) | [Email](mailto:mokebe0320@gmail.com) | [Resume](assets/resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/tebogo-mokebe) | [Email](mailto:mokebe0320@gmail.com) | [Download Resume (PDF)](Tebogo_Mokebe_Data_Analytics_Resume.pdf)
 
 <div align="center">
   <img src="assets/profile_photo.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
