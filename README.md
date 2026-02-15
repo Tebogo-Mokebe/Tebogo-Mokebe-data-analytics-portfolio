@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="assets/banner.png" alt="Tebogo Mokebe Data Analytics Portfolio Banner" width="100%">
 </div>
+
+<br>
 
 # Tebogo Mokebe
 
@@ -9,9 +11,26 @@
 [LinkedIn](https://www.linkedin.com/in/tebogo-mokebe) | [Email](mailto:mokebe0320@gmail.com) | [Download Resume (PDF)](Tebogo_Mokebe_Data_Analytics_Resume.pdf)
 
 <div align="center">
-  <img src="assets/profile_photo.jpg" alt="Profile Photo" width="150" style="border-radius: 50%;">
+  <img src="assets/profile_photo.jpg" alt="Tebogo Mokebe Profile Photo" width="150" style="border-radius: 50%;">
 </div>
 
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/tebogo-mokebe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mokebe0320@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="assets/Tebogo_Mokebe_Data_Analytics_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume PDF">
+  </a>
+  <a href="https://github.com/tebogo-mokebe">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<br>
 ### About Me
 HR graduate with a passion for data-driven insights in employee retention, engagement, and organizational growth. Self-taught in data analytics through Udemy Data Analytics Masters 2026. Skilled in Excel, SQL (MySQL), and Python for analyzing HR metrics. Seeking entry-level roles in Johannesburg/Gauteng to support people analytics initiatives.
 
