@@ -1,0 +1,13 @@
+Department,Attrition,Gender,Avg_Income,Avg_Satisfaction
+Sales,Yes,Female,5557.8421,2.5263
+"Research & Development",No,Male,6508.8740,2.8354
+"Research & Development",Yes,Male,4058.1000,2.5222
+"Research & Development",No,Female,6808.1667,2.6726
+Sales,No,Female,7328.0397,2.8411
+Sales,Yes,Male,6155.1852,2.5185
+"Research & Development",Yes,Female,4212.6744,2.3256
+Sales,No,Male,7160.9803,2.7882
+"Human Resources",No,Male,6810.5135,2.6486
+"Human Resources",Yes,Male,3660.8333,1.8333
+"Human Resources",No,Female,8761.1429,2.8571
+"Human Resources",Yes,Female,3770.6667,2.5000

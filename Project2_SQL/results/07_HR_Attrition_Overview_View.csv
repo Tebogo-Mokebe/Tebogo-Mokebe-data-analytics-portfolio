@@ -1,0 +1,12 @@
+Department,Jobrole,Avg_Income,Avg_Satisfaction,Attrition_Rate
+Sales,"Sales Executive",6924.2791,2.7546,17.48466
+"Research & Development","Research Scientist",3239.9726,2.7740,16.09589
+"Research & Development","Laboratory Technician",3237.1699,2.6911,23.93822
+"Research & Development","Manufacturing Director",7295.1379,2.6828,6.89655
+"Research & Development","Healthcare Representative",7528.7634,2.7863,6.87023
+Sales,Manager,16986.9730,2.7568,5.40541
+Sales,"Sales Representative",2626.0000,2.7349,39.75904
+"Research & Development","Research Director",16033.5500,2.7000,2.50000
+"Research & Development",Manager,17130.3333,2.6481,5.55556
+"Human Resources","Human Resources",4235.7500,2.5577,23.07692
+"Human Resources",Manager,18088.6364,2.8182,0.00000

@@ -1,0 +1,7 @@
+JobRole,Gender,Avg_WorkLife,Attrition_Rate
+Manager,Female,2.7368,10.52632
+"Sales Executive",Male,2.7784,19.07216
+"Sales Representative",Female,2.8684,42.10526
+"Sales Executive",Female,2.8409,15.15152
+"Sales Representative",Male,2.9111,37.77778
+Manager,Male,2.7778,0.00000
