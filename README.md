@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="assets/banner.png" alt="Tebogo Mokebe Data Analytics Portfolio Banner" width="100%">
-</div>
 
-<br>
 
 # Tebogo Mokebe
 
@@ -10,9 +6,6 @@
 **Johannesburg, Gauteng, South Africa**  
 [LinkedIn](https://www.linkedin.com/in/tebogo-mokebe) | [Email](mailto:mokebe0320@gmail.com) | [Download Resume (PDF)](Tebogo_Mokebe_Data_Analytics_Resume.pdf)
 
-<div align="center">
-  <img src="assets/profile_photo.jpg" alt="Tebogo Mokebe Profile Photo" width="150" style="border-radius: 50%;">
-</div>
 
 <br>
 <div align="center">
