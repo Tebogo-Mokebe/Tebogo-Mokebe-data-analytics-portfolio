@@ -1,15 +1,11 @@
-
-
-# Tebogo Mokebe
-
-**HR Graduate | Aspiring Data Analyst | People Analytics Enthusiast**  
-**Johannesburg, Gauteng, South Africa**  
-[LinkedIn](https://www.linkedin.com/in/tebogo-mokebe) | [Email](mailto:mokebe0320@gmail.com) | [Download Resume (PDF)](Tebogo_Mokebe_Data_Analytics_Resume.pdf)
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00A3E0&center=true&vCenter=true&width=600&lines=Tebogo+Mokebe;HR+Graduate+%7C+Aspiring+Data+Analyst;People+Analytics+Enthusiast;Johannesburg%2C+South+Africa" alt="Typing SVG" />
+</div>
 
 <br>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/tebogo-mokebe/">
+  <a href="https://www.linkedin.com/in/tebogo-mokebe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mokebe0320@gmail.com">
@@ -24,28 +20,27 @@
 </div>
 
 <br>
+
 ### About Me
-HR graduate with a passion for data-driven insights in employee retention, engagement, and organizational growth. Self-taught in data analytics through Udemy Data Analytics Masters 2026. Skilled in Excel, SQL (MySQL), and Python for analyzing HR metrics. Seeking entry-level roles in Johannesburg/Gauteng to support people analytics initiatives.
+HR graduate transitioning into **data analytics** and **people analytics**. Self-taught through Udemy Data Analytics Masters 2026. Skilled in **Excel** (advanced dashboards & PivotTables), **SQL** (MySQL queries, procedures, CTEs), and **Python** (Pandas, Seaborn EDA). Built portfolio analyzing employee attrition — identifying turnover drivers, satisfaction gaps, and HR recommendations.
 
-### Skills
-- **Data Tools**: Excel (PivotTables, Dashboards), SQL (Queries, Procedures), Python (Pandas, Seaborn)
-- **HR Focus**: Attrition Analysis, Satisfaction Metrics, Workforce Equity, Engagement Surveys
-- **Other**: Microsoft Office, HRIS Systems, Communication, Problem-Solving
+Passionate about using data to improve retention, engagement, and equity in South African workplaces. Seeking **entry-level Data Analyst**, **People Analytics**, or **HR Reporting** roles in **Johannesburg/Gauteng**.
 
-### Portfolio Highlights
-Explore my GitHub portfolio repository for full projects and code:
+### Featured Portfolio Projects
+Full code, visuals, and insights: [View Portfolio Repository →](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio)
 
-[View Full Portfolio →](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio)
+| # | Project | Tools | Key Insight | Link |
+|---|---------|-------|-------------|------|
+| 1 | Excel HR Attrition Report | Excel 2016 (PivotTables, Slicers, Charts) | Sales: 20.6% attrition; overtime doubles risk | [View Project](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio/tree/main/Project1_Excel) |
+| 2 | SQL HR Attrition Analysis | MySQL (Queries, Views, Procedures, CTEs) | Overtime 'Yes': 30.5% attrition; ranked roles by risk | [View Project](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio/tree/main/Project2_SQL) |
+| 3 | Python EDA on Attrition | Python (Pandas, Seaborn, Matplotlib) | Younger staff (<35) & low satisfaction → higher turnover | [View Project](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio/tree/main/Project3_Python) |
 
-| Project | Tools | Key Insight | Link |
-|---------|-------|-------------|------|
-| Excel HR Attrition Report | Excel | Sales 20.6% attrition; overtime doubles risk | [Project 1](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio/tree/main/Project1_Excel) |
-| SQL HR Attrition Analysis | MySQL | Overtime 'Yes' 30.5% attrition; ranked roles | [Project 2](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio/tree/main/Project2_SQL) |
-| Python EDA on Attrition | Python | Younger staff higher turnover; income gaps | [Project 3](https://github.com/tebogo-mokebe/tebogo-mokebe-data-analytics-portfolio/tree/main/Project3_Python) |
+### Let's Connect
+Open to opportunities, feedback, and collaborations.  
+Message me on LinkedIn or email — excited to discuss entry-level data roles!
 
-### Contact
-Open to entry-level Data Analyst or People Analytics roles. Let's connect!
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">  
+Email: mokebe0320@gmail.com
 
 Last updated: February 2026
+
